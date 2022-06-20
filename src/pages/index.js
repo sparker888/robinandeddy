@@ -24,17 +24,17 @@ export default function IndexPage() {
                 ROBINANDEDDY.COM
               </p>
               <h1 className="mt-2 text-4xl font-extrabold text-white tracking-tight sm:text-5xl">
-                No, you're not lost.
+                No, you're not lost...
               </h1>
               <p className="mt-2 text-lg font-medium text-black text-opacity-50">
-                We're working on rebuilding the website.
+                We're designing a new website.
               </p>
               <div className="mt-6">
                 <a
                   href="#"
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-black text-opacity-75 bg-white bg-opacity-75 sm:bg-opacity-25 sm:hover:bg-opacity-50"
                 >
-                  Go back home
+                  Contact Robin
                 </a>
               </div>
             </div>
