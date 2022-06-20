@@ -20,16 +20,16 @@ export default function IndexPage() {
             }}
           >
             <div className="max-w-7xl mx-auto px-4 py-16 text-center sm:px-6 sm:py-24 lg:px-8 lg:py-48">
-              <p className="text-sm font-semibold text-black text-opacity-50 uppercase tracking-wide">
+              <p className="text-2xl font-semibold text-black text-opacity-50 uppercase tracking-wide">
                 ROBINANDEDDY.COM
               </p>
-              <h1 className="mt-2 text-4xl font-extrabold text-white tracking-tight sm:text-5xl">
+              <h1 className="mt-8 text-4xl font-extrabold text-white tracking-tight sm:text-7xl">
                 No, you're not lost...
               </h1>
-              <p className="mt-2 text-lg font-medium text-black text-opacity-50">
+              <p className="mt-8 text-xl font-medium text-black text-opacity-50">
                 We're designing a new website.
               </p>
-              <div className="mt-6">
+              <div className="mt-12">
                 <a
                   href="#"
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-black text-opacity-75 bg-white bg-opacity-75 sm:bg-opacity-25 sm:hover:bg-opacity-50"
