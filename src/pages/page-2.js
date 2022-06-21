@@ -15,7 +15,7 @@ const SecondPage = () => (
       <div class="grid place-items-center h-screen">
         <div class="w-full md:w-96 md:max-w-full mx-auto">
           <div className="p-6 border border-gray-600 sm:rounded-md bg-orange-200">
-          <h3 className="mb-6 text-2xl font-extrabold tracking-tight text-orange-400 sm:text-3xl">
+          <h3 className="mb-6 text-2xl bg-gradient-to-br from-orange-400 to-yellow-800 bg-clip-text text-3xl font-extrabold tracking-tight text-transparent sm:text-3xl">
                 Contact Robin!
               </h3>
             <form name="contact"
@@ -108,6 +108,7 @@ const SecondPage = () => (
             px-5
             text-black text-opacity-75
             bg-orange-400
+            bg-opacity-75
             rounded-lg
             transition-colors
             duration-150

@@ -32,7 +32,7 @@ export default function IndexPage() {
               <div className="mt-12">
                 <Link
                   href="./page-2"
-                  className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-black text-opacity-75 bg-white bg-opacity-75 sm:bg-opacity-25 sm:hover:bg-opacity-50"
+                  className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-black text-opacity-75 bg-orange-400 bg-opacity-50 sm:hover:bg-opacity-75"
                 >
                   Contact Robin
                 </Link>
