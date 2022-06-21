@@ -24,7 +24,7 @@ export default function IndexPage() {
                 ROBINANDEDDY.COM
               </p>
               <h1 className="mt-8 text-4xl font-extrabold text-white tracking-tight sm:text-7xl">
-                No, you're not lost...
+                Hi! You're not lost...
               </h1>
               <p className="mt-8 text-xl font-medium text-black text-opacity-50">
                 We're designing a new website.
