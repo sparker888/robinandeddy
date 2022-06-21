@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 import Waves from "../components/birds"
 
 const SecondPage = () => (
-  <div className="h-full">
+  <div className="h-full bg-sky-400">
     <Waves className="absolute h-1000">
       <div class="grid place-items-center h-screen">
         <div class="w-full md:w-96 md:max-w-full mx-auto">
