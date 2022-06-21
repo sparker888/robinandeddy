@@ -113,13 +113,11 @@ const SecondPage = () => (
               </div>
               <div>
                 <div className="mt-2 text-gray-300 text-right text-xs">
-                  by
                   <a
-                    href="https://breathewithme.love"
+                    href="/"
                     className="hover:underline"
-                    target="_blank"
                   >
-                    BreatheWithMe
+                    TakeMeHome
                   </a>
                 </div>
               </div>
