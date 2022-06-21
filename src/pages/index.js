@@ -30,12 +30,12 @@ export default function IndexPage() {
                 We're designing a new website.
               </p>
               <div className="mt-12">
-                <a
-                  href="#"
+                <Link
+                  href="./page-2"
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-black text-opacity-75 bg-white bg-opacity-75 sm:bg-opacity-25 sm:hover:bg-opacity-50"
                 >
                   Contact Robin
-                </a>
+                </Link>
               </div>
             </div>
           </main>
